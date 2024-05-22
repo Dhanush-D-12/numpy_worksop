@@ -18,6 +18,6 @@ output = []
 output.append(a)
 output.append(b)
 output.append(c)
-c.append(d)
-d.append(e)
+output.append(d)
+output.append(e)
 print(output)
